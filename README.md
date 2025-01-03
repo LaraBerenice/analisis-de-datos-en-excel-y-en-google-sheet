@@ -8,6 +8,6 @@ Este repositorio contiene trabajos realizados como analista de datos utilizando 
 
 [Enlace al proyecto de los granos ](./Analisis-produccion-granos-Arg-1981_2020/entrega_proyecto%20_LARA_LEDESMA.xlsx)
 
-[Enlace a la documentaciòn del proyecto analisis de tienda de retail](./Global-Super-Store/Conclusiones%20-%20Proyecto%20M1,%20Ledesma,Lara_.docx)
+[Enlace a la documentaciòn del proyecto del analisis de la tienda de retail](./Global-Super-Store/Conclusiones%20-%20Proyecto%20M1,%20Ledesma,Lara_.docx)
 
 
