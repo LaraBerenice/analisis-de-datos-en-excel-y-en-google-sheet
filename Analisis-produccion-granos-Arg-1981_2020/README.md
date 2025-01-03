@@ -1,6 +1,6 @@
-<p>Ruta del archivo (.xlsx) aqui : 
-[Enlace al archivo del proyecto web](./Analisis-produccion-granos-Arg-1981_2020/entrega_proyecto_LARA_LEDESMA.xlsx)
-</p>
+
+[Enlace al archivo aqui](./Analisis-produccion-granos-Arg-1981_2020/entrega_proyecto_LARA_LEDESMA.xlsx)
+
 
 <div align="center">
     <img src="./Imagenes/Captura de pantalla 2024-11-01 204255.png" alt="Descripción de la Imagen 1" width="100%"/>
