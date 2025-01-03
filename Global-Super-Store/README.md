@@ -12,4 +12,4 @@ La empresa Global Super Store, líder en ventas de productos en línea a nivel i
 
 ![Gráficos de análisis](./Imagenes/b71c2baa-e305-430a-9d45-da2484d98acb.webp)
 
-[Enlace al archivo del proyecto web]()
+[Enlace al archivo del proyecto web](Conclusiones%20-%20Proyecto%20M1,%20Ledesma,Lara_.docx)
