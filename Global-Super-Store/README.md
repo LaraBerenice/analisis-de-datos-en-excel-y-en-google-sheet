@@ -12,4 +12,4 @@ La empresa Global Super Store, líder en ventas de productos en línea a nivel i
 
 ![Gráficos de análisis](./Imagenes/b71c2baa-e305-430a-9d45-da2484d98acb.webp)
 
-[Enlace a la documentaciòn del proyecto](./Informe del Proyecto - Ledesma Lara Berenice.docx.pdf)
+[Enlace a la documentaciòn del proyecto](./Informe%20del%20Proyecto%20-%20Ledesma%20Lara%20Berenice.docx.pdf)
